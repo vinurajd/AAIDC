@@ -10,8 +10,8 @@ By employing the RAG architecture, this assistant addresses a critical challenge
 3. Activate the virtual environment - cra\Scripts\activate
 4. Open the utils.py file in src folder and set the path to the .env file that contains the key
    - Note that the system uses models hosted on Groq and hence the .env file must contain the key to access Groq models.
+<img width="1030" height="177" alt="image" src="https://github.com/user-attachments/assets/da32217d-df21-41b5-9da2-58dc8764147f" />
 
-
-Optionally you can specify you own models for embedings model, llm and re ranking model by specifying appropriate model names in the variables listed in the screen shot above
-Once the key is updated, run the command streamlit run src\streamlit_app.py to interact with the application
+5. Optionally you can specify you own models for embedings model, llm and re ranking model by specifying appropriate model names in the variables listed in the screen shot above
+6. Once the key is updated, run the command **streamlit run src\streamlit_app.py** to interact with the application
 
