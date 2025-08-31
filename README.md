@@ -7,11 +7,13 @@ By employing the RAG architecture, this assistant addresses a critical challenge
 ## Instructions to run the code:
 1. Clone the repo by running the code **git clone https://github.com/vinurajd/AAIDC.git**
 2. Open command prompt and navigate to the folder where the repo is cloned
-3. Activate the virtual environment - cra\Scripts\activate
-4. Open the utils.py file in src folder and set the path to the .env file that contains the key
+3. Activate the virtual environment - **cra\Scripts\activate**
+4. Open the **utils.py** file in src folder and set the path to the .env file that contains the key
    - Note that the system uses models hosted on Groq and hence the .env file must contain the key to access Groq models.
 <img width="1030" height="177" alt="image" src="https://github.com/user-attachments/assets/da32217d-df21-41b5-9da2-58dc8764147f" />
 
 5. Optionally you can specify you own models for embedings model, llm and re ranking model by specifying appropriate model names in the variables listed in the screen shot above
 6. Once the key is updated, run the command **streamlit run src\streamlit_app.py** to interact with the application
 
+### Architecture 
+https://viewer.diagrams.net/index.html?lightbox=1&target=blank&highlight=0000ff&nav=1&title=Knowledge%20Assistant%20-%20Carnatic%20Music.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1rh-I9oWgC-STzGONr-X4z3wK3IEkJ2ev%26export%3Ddownload#%7B%22pageId%22%3A%22O4RRyzYUKORRkRdZorb8%22%7D
