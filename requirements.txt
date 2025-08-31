@@ -1,0 +1,17 @@
+streamlit>=1.28.0
+langchain>=0.3.0
+langchain-groq>=0.3.0
+langchain-community>=0.3.0
+langchain-huggingface>=0.3.0
+faiss-cpu>=1.12.0
+sentence-transformers>=2.2.0
+chromadb>=0.4.0
+langchain-core
+langchain-groq
+langgraph
+python-dotenv
+pandas
+sentence-transformers
+pyyaml
+pypdf
+hf_xet
