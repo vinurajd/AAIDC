@@ -17,5 +17,5 @@ By employing the RAG architecture, this assistant addresses a critical challenge
 
 ### References
 1. [Architecture](https://viewer.diagrams.net/index.html?lightbox=1&target=blank&highlight=0000ff&nav=1&title=Knowledge%20Assistant%20-%20Carnatic%20Music.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1rh-I9oWgC-STzGONr-X4z3wK3IEkJ2ev%26export%3Ddownload#%7B%22pageId%22%3A%22O4RRyzYUKORRkRdZorb8%22%7D)
-2.[Brief Write up](https://app.readytensor.ai/publications/carnatic-music-assistant-sE2umHKXa8M4)
-3.[White Paper](https://docs.google.com/document/d/1dpAdKiLwh-Rf-8z5mkuK7DvZtH4o_Tz3X2oJWZgBJvY/edit?usp=sharing)
+2. [Brief Write up](https://app.readytensor.ai/publications/carnatic-music-assistant-sE2umHKXa8M4)
+3. [White Paper](https://docs.google.com/document/d/1dpAdKiLwh-Rf-8z5mkuK7DvZtH4o_Tz3X2oJWZgBJvY/edit?usp=sharing)
