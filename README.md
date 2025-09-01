@@ -15,5 +15,7 @@ By employing the RAG architecture, this assistant addresses a critical challenge
 5. Optionally you can specify you own models for embedings model, llm and re ranking model by specifying appropriate model names in the variables listed in the screen shot above
 6. Once the key is updated, run the command **streamlit run src\streamlit_app.py** to interact with the application
 
-### Architecture 
-https://viewer.diagrams.net/index.html?lightbox=1&target=blank&highlight=0000ff&nav=1&title=Knowledge%20Assistant%20-%20Carnatic%20Music.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1rh-I9oWgC-STzGONr-X4z3wK3IEkJ2ev%26export%3Ddownload#%7B%22pageId%22%3A%22O4RRyzYUKORRkRdZorb8%22%7D
+### References
+1. [Architecture](https://viewer.diagrams.net/index.html?lightbox=1&target=blank&highlight=0000ff&nav=1&title=Knowledge%20Assistant%20-%20Carnatic%20Music.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1rh-I9oWgC-STzGONr-X4z3wK3IEkJ2ev%26export%3Ddownload#%7B%22pageId%22%3A%22O4RRyzYUKORRkRdZorb8%22%7D)
+2.[Brief Write up](https://app.readytensor.ai/publications/carnatic-music-assistant-sE2umHKXa8M4)
+3.[White Paper](https://docs.google.com/document/d/1dpAdKiLwh-Rf-8z5mkuK7DvZtH4o_Tz3X2oJWZgBJvY/edit?usp=sharing)
